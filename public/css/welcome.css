@@ -1,0 +1,16 @@
+body {
+    background: #e6f0ff;
+    margin: 0px;
+    top: -10px;
+}
+.head {
+    margin: 0px;
+    padding-left: 80px;
+    padding-right: 80px;
+    background-color: #cce0ff;
+}
+div.card-header{
+    margin: 200px;
+    padding-left: 80px;
+    padding-right: 80px;
+}
